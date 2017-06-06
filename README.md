@@ -16,7 +16,6 @@ Simple Docker Image for Dynomite.
 
 ## What dynomite versions are suppoorted?
 
-* 0.5.7-14 <BR> 
 * 0.5.8-5 <BR>
 * 0.5.9-2 <BR>
 

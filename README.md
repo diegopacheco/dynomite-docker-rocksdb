@@ -14,7 +14,7 @@ Simple Docker Image for Dynomite.
 4. vagrant ssh
 5. Create the Dynomite clusters $ cd dynomite-docker/ && sudo ./dynomite-docker.sh run 0.5.8
 
-## What dynomite versions are suppoorted?
+## What dynomite versions are supported?
 
 * 0.5.8-5 <BR>
 * 0.5.9-2 <BR>

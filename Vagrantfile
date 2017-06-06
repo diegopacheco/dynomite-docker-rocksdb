@@ -21,7 +21,7 @@ Vagrant.configure(2) do |config|
      sudo apt-get -y install oracle-java8-installer	
  
      sudo wget -qO- https://get.docker.com/ | sudo bash
-     git clone https://github.com/diegopacheco/dynomite-docker.git
+     git clone https://github.com/diegopacheco/dynomite-docker-rocksdb.git
      cd dynomite-docker/ && ./dynomite-docker.sh bake
   SHELL
 

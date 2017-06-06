@@ -34,7 +34,7 @@ help  : help documentation
 ```
 
 ## How it works? 
-1. We bake a docker image with Dynomiete v0.5.X and Redis 3.x.
+1. We bake a docker image with Dynomiete v0.5.X and RocksDB 5.x.
 2. We create 2 clusters - each cluster has 3 nodes.
 3. In the end of the script(./dynomite-docker.sh run DYNOMITE_VERSION) you will see all seeds(We also run Dynomite Cluster Checker)
 4. You just need run ./dynomite-docker.sh bake 1 time.

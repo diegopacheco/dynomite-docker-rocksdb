@@ -169,3 +169,8 @@ All Seeds Cluster Failover test: OK
 **** END DYNOMITE CLUSTER CHECKER ****
 ```
 
+
+## Similar projects
+
+* dynomite-docker         -> https://github.com/diegopacheco/dynomite-docker
+* cassandra-docker        -> https://github.com/diegopacheco/cassandra-docker
